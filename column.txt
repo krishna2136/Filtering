@@ -1,0 +1,17 @@
+| Country   |    City   | City_Rank |   Artist    | Artist_Rank |       Movie      | Movie_Rank |
++-----------+-----------+-----------+-------------+-------------+------------------+------------+
+| INDIA     | HYDERABAD |         2 | M.F.HUSSAIN |           2 | MEENAXI          |          3 |
+| CANADA    | TORONTO   |         3 | UNKNOWN     |           3 | IT               |          1 |
+| AUSI      | SYDNEY    |         1 | UNKNOWN1    |           1 | IT-2             |          2 |
+| SINGAPORE | MALAYSIA  |         2 | UNKNOWN2    |           3 | FANTASTIC BEASTS |          2 |
+| RUSSIA    | MOSCOW    |         1 | UNKNOWN3    |           2 | JUNGLE BOOK      |          3 |
+| INDIA     | VIZAG     |         3 | JACQUELINE  |           1 | ROY              |          1 |
+
+
+
+
+
+| country | best_ranked_city | best_ranked_artist | best_ranked_movie |
+|---------+------------------+--------------------+-------------------+
+|   INDIA |            VIZAG |       JACQUELINE   |        ROY        |
+|  CANADA |          TORONTO |         UNKNOWN    |        IT         |

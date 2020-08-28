@@ -1,0 +1,13 @@
+     business_id     | year | month |    city     | review  
+---------------------+------+-------+-------------+--------
+       sample_1      | 2018 |      9|  vizag      |    4
+       sample_2      | 2019 |     10|  vijayawada |    1
+       sample_3      | 2020 |     11|  hyderabad  |    2
+       sample_4      | 2014 |     12|  pune       |    6
+       sample_5      | 2016 |      1|  delhi      |    2
+       sample_6      | 2017 |      7|  warangal   |    5
+       sample_7      | 2013 |      8|  nellore    |    1
+       sample_8      | 2020 |     10|  vizag      |    1
+       sample_9      | 2020 |     12|  vijayawada |    1
+       sample_10     | 2020 |      1|  hyderabad  |    4
+(10 rows)       
